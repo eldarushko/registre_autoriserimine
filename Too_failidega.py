@@ -1,4 +1,4 @@
-from MinuOmaMoodul import *
+from minuomamodul import *
 
 failide_kustutamine()
 
